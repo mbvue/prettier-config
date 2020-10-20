@@ -1,0 +1,25 @@
+{
+    "name": "prettier-config",
+    "version": "0.0.1",
+    "description": "prettier config",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mbvue/prettier-config.git"
+    },
+    "bugs": {
+        "url": "https://github.com/mbvue/prettier-config/issues"
+    },
+    "homepage": "https://github.com/mbvue/prettier-config#readme",
+    "keywords": [
+        "prettier",
+        "prettier config",
+        "mb",
+        "mbvue"
+    ],
+    "author": "hwq <17031989083@qq.com>",
+    "license": "MIT",
+    "dependencies": {
+        "prettier": "^2.1.2"
+    }
+}
