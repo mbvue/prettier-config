@@ -8,7 +8,7 @@ yarn add -D @mbvue/prettier-config
 .prettierrc.js：
 
 module.exports = {
-  ...require("@mbvue/prettier-config")
+  ...require('@mbvue/prettier-config')
 };
 
 or
