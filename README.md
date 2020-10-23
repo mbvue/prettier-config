@@ -2,25 +2,25 @@
 Prettier Config.
 
 ## Installation
+```bash
 yarn add -D @mbvue/prettier-config
+```
 
 ## Usage
 .prettierrc.js：
 
+```js
 module.exports = {
   ...require('@mbvue/prettier-config')
 };
+```
 
-or
-
-.prettierrc.json：
-
-"@mbvue/prettier-config"
-
-or
+OR
 
 package.json：
 
+```json
 {
   "prettier": "@mbvue/prettier-config"
 }
+```
