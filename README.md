@@ -1,6 +1,3 @@
-## Vendor
-Prettier Config.
-
 ## Installation
 ```bash
 yarn add -D @mbvue/prettier-config
