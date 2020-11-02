@@ -1,6 +1,6 @@
 {
     "name": "@mbvue/prettier-config",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "description": "prettier config",
     "main": "index.js",
     "repository": {
@@ -17,9 +17,6 @@
     ],
     "author": "hwq <17031989083@qq.com>",
     "license": "MIT",
-    "peerDependencies": {
-        "prettier": ">=2.1.2"
-    },
     "dependencies": {
         "prettier": "^2.1.2"
     }

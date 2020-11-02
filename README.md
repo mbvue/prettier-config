@@ -1,8 +1,8 @@
 ## Installation
 ```bash
-yarn add -D @mbvue/prettier-config
-#OR
 npm install --save-dev @mbvue/prettier-config
+#OR
+yarn add -D @mbvue/prettier-config
 ```
 
 ## Usage
